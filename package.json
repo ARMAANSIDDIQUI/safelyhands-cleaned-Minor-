@@ -1,0 +1,21 @@
+{
+    "name": "broomees-monorepo",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "build": "cd frontend && npm install && npm run build",
+        "start": "cd backend && npm start",
+        "dev": "cd backend && npm run dev",
+        "start:frontend": "cd frontend && npm start",
+        "dev:frontend": "cd frontend && npm run dev",
+        "start:backend": "cd backend && npm start",
+        "dev:backend": "cd backend && npm run dev",
+        "install:all": "cd frontend && npm install && cd ../backend && npm install"
+    },
+    "devDependencies": {
+        "concurrently": "^8.2.2"
+    },
+    "dependencies": {
+        "web-push": "^3.6.7"
+    }
+}

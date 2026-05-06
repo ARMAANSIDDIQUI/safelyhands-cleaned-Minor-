@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "slug": "cooks",
+        "title": "Cooks & Chefs",
+        "description": "Professional cooks and chefs to prepare delicious, nutritious home-cooked meals for your family. Our verified cooks are experienced in multiple cuisines and maintain the highest standards of hygiene.",
+        "badge": "Trending",
+        "rating": 4.8,
+        "reviewCount": 350,
+        "basePrice": 10000,
+        "priceRange": {
+            "min": 8000,
+            "max": 15000
+        },
+        "imageUrl": "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/e6c33f1f-26f1-4bf2-92ba-b28a162e87df-broomees-com/assets/images/130359605e8fb04bd76de91901a716bb-5.jpg",
+        "category": "cooking",
+        "features": [
+            "Expert in multiple cuisines (Indian, Continental, Chinese)",
+            "Hygiene and food safety certified",
+            "Custom meal planning based on dietary needs",
+            "Dietary restrictions accommodated (vegan, gluten-free, etc.)",
+            "Uses fresh ingredients",
+            "Professional cooking equipment handling",
+            "Menu planning assistance",
+            "Grocery list preparation"
+        ],
+        "availability": "Part-time (4-8 hours) and Full-time",
+        "verificationStatus": "Fully verified with background checks"
+    },
+    {
+        "id": 2,
+        "slug": "domestic-help",
+        "title": "Domestic Help",
+        "description": "Reliable and trustworthy domestic help for all your household cleaning and maintenance needs. Our maids are trained professionals who ensure your home stays spotless.",
+        "rating": 4.3,
+        "reviewCount": 520,
+        "basePrice": 7000,
+        "priceRange": {
+            "min": 6000,
+            "max": 10000
+        },
+        "imageUrl": "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/e6c33f1f-26f1-4bf2-92ba-b28a162e87df-broomees-com/assets/images/edec0091f4348c22a0b08c5a10cef4d5-7.jpg",
+        "category": "cleaning",
+        "features": [
+            "Thorough sweeping and mopping",
+            "Dusting of all surfaces",
+            "Bathroom deep cleaning",
+            "Kitchen maintenance and cleaning",
+            "Laundry and ironing services",
+            "Dishwashing",
+            "Utensil cleaning",
+            "Balcony and window cleaning"
+        ],
+        "availability": "Part-time (4-8 hours) and Full-time",
+        "verificationStatus": "Fully verified with background checks"
+    },
+    {
+        "id": 3,
+        "slug": "babysitter",
+        "title": "Babysitter",
+        "description": "Professional and caring babysitters to look after your little ones with love, attention, and safety. Our babysitters are trained in child care and first aid.",
+        "badge": "Most Popular",
+        "rating": 4.9,
+        "reviewCount": 420,
+        "basePrice": 8000,
+        "priceRange": {
+            "min": 7000,
+            "max": 12000
+        },
+        "imageUrl": "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/e6c33f1f-26f1-4bf2-92ba-b28a162e87df-broomees-com/assets/images/cd253c39bd16fcdf8835ff502fec9273-3.jpg",
+        "category": "childcare",
+        "features": [
+            "Background verified and police verified",
+            "Experienced with children of all ages",
+            "First aid and CPR trained",
+            "Flexible scheduling options",
+            "Regular updates to parents",
+            "Safe and engaging activities",
+            "Homework assistance for older kids",
+            "Meal preparation for children"
+        ],
+        "availability": "Part-time, Full-time, and On-demand",
+        "verificationStatus": "Fully verified with police verification"
+    },
+    {
+        "id": 4,
+        "slug": "all-rounder",
+        "title": "All Rounder",
+        "description": "Versatile all-rounder staff capable of handling multiple household roles including cooking, cleaning, and general household management. Perfect for comprehensive home care.",
+        "rating": 4.7,
+        "reviewCount": 280,
+        "basePrice": 12000,
+        "priceRange": {
+            "min": 10000,
+            "max": 16000
+        },
+        "imageUrl": "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/e6c33f1f-26f1-4bf2-92ba-b28a162e87df-broomees-com/assets/images/allrounderImag_08_11_24-4.png",
+        "category": "multi-task",
+        "features": [
+            "Cooking and meal preparation",
+            "Complete house cleaning",
+            "Laundry and ironing",
+            "Grocery shopping assistance",
+            "Basic household maintenance",
+            "Flexible task management",
+            "Time-efficient multi-tasking",
+            "Adaptable to household needs"
+        ],
+        "availability": "Part-time and Full-time",
+        "verificationStatus": "Fully verified with background checks"
+    },
+    {
+        "id": 5,
+        "slug": "elderly-care",
+        "title": "24 Hrs - Elderly Care",
+        "description": "Compassionate and trained caregivers providing dedicated 24-hour support and companionship for senior citizens. Our elderly care professionals ensure comfort, safety, and dignity.",
+        "badge": "Premium",
+        "rating": 4.8,
+        "reviewCount": 195,
+        "basePrice": 15000,
+        "priceRange": {
+            "min": 12500,
+            "max": 20000
+        },
+        "imageUrl": "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/e6c33f1f-26f1-4bf2-92ba-b28a162e87df-broomees-com/assets/images/BroomeesElederlyCare1-2.jpg",
+        "category": "healthcare",
+        "features": [
+            "Trained in elderly care and patient handling",
+            "Medication reminders and management",
+            "Mobility and walking assistance",
+            "Companionship and emotional support",
+            "Meal preparation and feeding assistance",
+            "Health monitoring and vital checks",
+            "Personal hygiene assistance",
+            "24/7 availability and care"
+        ],
+        "availability": "24 Hours Live-in",
+        "verificationStatus": "Fully verified with medical training certificates"
+    },
+    {
+        "id": 6,
+        "slug": "24-hour-live-in",
+        "title": "24 Hrs - Live In",
+        "description": "Round-the-clock live-in help for comprehensive household support and care. Our live-in staff provides continuous assistance for all your household needs.",
+        "rating": 4.4,
+        "reviewCount": 165,
+        "basePrice": 14000,
+        "priceRange": {
+            "min": 12500,
+            "max": 20000
+        },
+        "imageUrl": "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/e6c33f1f-26f1-4bf2-92ba-b28a162e87df-broomees-com/assets/images/545646546513878-6.jpeg",
+        "category": "live-in",
+        "features": [
+            "24/7 availability at home",
+            "Dedicated live-in staff",
+            "All household tasks covered",
+            "Cooking and cleaning services",
+            "Emergency support anytime",
+            "Flexible work arrangements",
+            "Accommodation provided by employer",
+            "Complete household management"
+        ],
+        "availability": "24 Hours Live-in only",
+        "verificationStatus": "Fully verified with background checks"
+    },
+    {
+        "id": 7,
+        "slug": "japa-services",
+        "title": "24 Hrs - Japa Services",
+        "description": "Specialized newborn care and postpartum support services. Our experienced Japa caregivers provide expert care for both mother and baby during the crucial postpartum period.",
+        "rating": 4.3,
+        "reviewCount": 145,
+        "basePrice": 16000,
+        "priceRange": {
+            "min": 14000,
+            "max": 22000
+        },
+        "imageUrl": "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/e6c33f1f-26f1-4bf2-92ba-b28a162e87df-broomees-com/assets/images/cd253c39bd16fcdf8835ff502fec9273-3.jpg",
+        "category": "newborn-care",
+        "features": [
+            "Newborn baby care expertise",
+            "Postpartum mother care and support",
+            "Breastfeeding guidance and assistance",
+            "Baby bathing and massage",
+            "Diaper changing and hygiene",
+            "Sleep schedule management",
+            "Light cooking for mother",
+            "24/7 availability during postpartum period"
+        ],
+        "availability": "24 Hours Live-in (typically 1-3 months)",
+        "verificationStatus": "Fully verified with specialized training certificates"
+    },
+    {
+        "id": 8,
+        "slug": "on-demand",
+        "title": "On-Demand Service (Broomit)",
+        "description": "Get instant help when you need it! Our on-demand service connects you with verified professionals for immediate household assistance.",
+        "badge": "New",
+        "rating": 4.6,
+        "reviewCount": 89,
+        "basePrice": 500,
+        "priceRange": {
+            "min": 500,
+            "max": 2000
+        },
+        "imageUrl": "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/e6c33f1f-26f1-4bf2-92ba-b28a162e87df-broomees-com/assets/images/broomit656464-8.jpg",
+        "category": "on-demand",
+        "features": [
+            "Get help instantly",
+            "Pay per service basis",
+            "No long-term commitment required",
+            "Verified professionals",
+            "Flexible scheduling",
+            "Multiple service options",
+            "Emergency assistance available",
+            "Transparent hourly rates"
+        ],
+        "availability": "On-demand (Fast response time)",
+        "verificationStatus": "Fully verified with background checks"
+    }
+]

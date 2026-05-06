@@ -1,0 +1,22 @@
+{
+    "name": "Safely Hands",
+    "short_name": "SafelyHands",
+    "description": "Trusted Home Makers in Moradabad. Hire a babysitter, chef, or maid service near you.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#72bcd4",
+    "icons": [
+        {
+            "src": "/favicon.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/favicon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
